@@ -1,3 +1,4 @@
+```C++
 // include the library code:
 #include <LiquidCrystal.h>
 
@@ -25,4 +26,6 @@ void loop() {
   lcd.blink();
   delay(3000);
 }
+```
+圖：![image]()
 
