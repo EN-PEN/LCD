@@ -27,5 +27,5 @@ void loop() {
   delay(3000);
 }
 ```
-圖：![image]()
+圖：![image](https://github.com/EN-PEN/LCD/blob/main/IMG20210309104105.jpg)
 
